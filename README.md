@@ -8,8 +8,9 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [View solution on Frontend Mentor](https://www.frontendmentor.io/solutions/minimalist-css-card-with-flexbox-fm8WmY3TOT
+)
+- Live Site URL: [live site](https://amis-qrcode-desgin.netlify.app/)
 
 ## My process
 
