@@ -19,7 +19,7 @@ body {
   border: 0;
   border-radius: 14px;
   background: #fff;
-  padding: 1rem;
+  padding: 0.85rem;
   margin: 1.5rem;
   box-shadow: 0 0 30px 4px #7b879d48;
 }
@@ -31,6 +31,9 @@ img.card-img {
 .card-text h2 {
   color: #1f3251;
   font-weight: 700;
+}
+.card-text {
+  padding: 0.25rem 0;
 }
 .card-text p {
   font-size: 0.875rem;
