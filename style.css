@@ -31,14 +31,13 @@ img.card-img {
 .card-text h2 {
   color: #1f3251;
   font-weight: 700;
-}
-.card-text {
-  padding: 0.5rem;
+  padding: 0.2rem;
 }
 .card-text p {
   font-size: 0.875rem;
   font-weight: 500;
   color: #7b879d;
+  padding: 0.5rem;
 }
 .attribution {
   position: absolute;
