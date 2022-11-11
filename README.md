@@ -23,17 +23,18 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 ### What I learned
 
 while trying to add the image, at first i wanted to put it in a div & give the div a certain size(width & height) , so that the image will be contained within it using a max-width of 100%, but i realized that method would just be some extra lines of codes. I could just change the display of the image to block(so it now behaves like a div), there was no need to crop it with a fixed height else it wouldn't look good in terms of aspect ratio. as shown in the code below the image size was computed based on the padding i assigned to the card!
+I also applied accessibility function for screen readers.
 
 See Favourite code snippets below:
 
 ```html
-<div class="card-container"></div>
+<h1 class="visually-hidden"></h1>
 ```
 
 ```css
 .card {
-  box-shadow: 0 0 26px 4px #7b879d48;
-  padding: 0.8rem;
+  box-shadow: 0 0 30px 4px #7b879d48;
+  padding: 0.85rem;
 }
 .card-img {
   display: block;

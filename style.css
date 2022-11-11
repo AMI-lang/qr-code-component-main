@@ -14,8 +14,8 @@ body {
 
 .card {
   text-align: center;
-  max-width: 300px;
-  min-width: 280px;
+  max-width: 305px;
+  min-width: 270px;
   border: 0;
   border-radius: 14px;
   background: #fff;
@@ -31,13 +31,14 @@ img.card-img {
 .card-text h2 {
   color: #1f3251;
   font-weight: 700;
-  padding: 0.2rem;
+  font-size: 1.25rem;
+  padding: 0 0.5rem;
 }
 .card-text p {
   font-size: 0.875rem;
   font-weight: 500;
   color: #7b879d;
-  padding: 0.5rem;
+  padding: 0.85rem;
 }
 .attribution {
   position: absolute;
