@@ -36,6 +36,7 @@ Temporary Items
 *.icloud
 
 ### VisualStudioCode ###
+.vscode/
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
@@ -53,3 +54,7 @@ Temporary Items
 # Ignore all local history of files
 .history
 .ionide
+
+### others
+style-guide.md
+design/
