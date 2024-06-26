@@ -4,7 +4,7 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### Screenshot
 
-![](images/screenshot.png)
+![](images/Screenshot-qr.png)
 
 ### Links
 
@@ -22,8 +22,9 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### What I learned
 
-while trying to add the image, at first i wanted to put it in a div & give the div a certain size(width & height) , so that the image will be contained within it using a max-width of 100%, but i realized that method would just be some extra lines of codes. I could just change the display of the image to block(so it now behaves like a div), there was no need to crop it with a fixed height else it wouldn't look good in terms of aspect ratio. as shown in the code below the image size was computed based on the padding i assigned to the card!
-I also applied accessibility function for screen readers.
+1. while trying to add the image, at first i wanted to put it in a div & give the div a certain size(width & height) , so that the image will be contained within it using a max-width of 100%, but i realized that method would just be some extra lines of codes. I could just change the display of the image to block(so it now behaves like a div), there was no need to crop it with a fixed height else it wouldn't look good in terms of aspect ratio. as shown in the code below the image size was computed based on the padding i assigned to the card!
+
+2. I applied accessibility one function for screen readers.
 
 See Favourite code snippets below:
 
@@ -44,9 +45,9 @@ See Favourite code snippets below:
 
 ### Continued development
 
-NEXT, I plan to get more work done with creating resposive cards & Mobile-first workflow.
+**NEXT ACTION**: Create more resposive designs & Mobile-first workflow.
 
 ## Author
 
-- Frontend Mentor - [@AMI-lang](https://www.frontendmentor.io/profile/AMI-lang)
+- Frontend Mentor - [@Amiyahayadev](https://www.frontendmentor.io/profile/Amiyahayadev)
 - LinkedIn - [Amina Yahaya](https://www.linkedin.com/mwlite/in/yaminajrfrontend020297)
