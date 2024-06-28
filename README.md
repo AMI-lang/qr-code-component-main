@@ -17,14 +17,14 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
+- Mobile-first workflow
 - Flexbox
 
 ### What I learned
 
 1. while trying to add the image, at first i wanted to put it in a div & give the div a certain size(width & height) , so that the image will be contained within it using a max-width of 100%, but i realized that method would just be some extra lines of codes. I could just change the display of the image to block(so it now behaves like a div), there was no need to crop it with a fixed height else it wouldn't look good in terms of aspect ratio. as shown in the code below the image size was computed based on the padding i assigned to the card!
 
-2. I applied accessibility one function for screen readers.
+2. I applied accessibility function for AT like screen readers.
 
 See Favourite code snippets below:
 
